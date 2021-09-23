@@ -45,7 +45,6 @@ export default function App() {
     success_message:"this is the success message",
     success_title:"it has entered success",
     token:"5da6358130a943486f33dced",
-    widget_failed:"",
     widget_success:"Your account was successfully linked to Okra, Inc"
   }
   return (
