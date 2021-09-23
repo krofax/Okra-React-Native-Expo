@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "okra-selfie",
+    "slug": "okra-selfie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "okra-selfie"
+}
